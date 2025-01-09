@@ -1,0 +1,165 @@
+{
+  "robotics": {
+    "questions": [
+      {
+        "question": "Which part of a robot helps it move?",
+        "answers": ["Motor", "Engine", "Rotor", "Banana"],
+        "correct_answer": "Motor"
+      },
+      {
+        "question": "What powers most robots?",
+        "answers": ["Battery", "Power", "Cell", "Pizza"],
+        "correct_answer": "Battery"
+      },
+      {
+        "question": "What do robots use to sense their environment?",
+        "answers": ["Sensors", "Detectors", "Monitors", "Ears"],
+        "correct_answer": "Sensors"
+      },
+      {
+        "question": "What is the brain of a robot called?",
+        "answers": ["Controller", "Processor", "Computer", "Apple"],
+        "correct_answer": "Controller"
+      },
+      {
+        "question": "What is the main purpose of a robot?",
+        "answers": ["Automation", "Decoration", "Entertainment", "Icecream"],
+        "correct_answer": "Automation"
+      },
+      {
+        "question": "What do robots need to follow instructions?",
+        "answers": ["Programming", "Coding", "Writing", "Cake"],
+        "correct_answer": "Programming"
+      },
+      {
+        "question": "What is a robot's vision system called?",
+        "answers": ["Camera", "Lens", "Eye", "Cookie"],
+        "correct_answer": "Camera"
+      },
+      {
+        "question": "What's a robot's ability to understand its surroundings?",
+        "answers": ["Perception", "Awareness", "Sensing", "Magic"],
+        "correct_answer": "Perception"
+      },
+      {
+        "question": "What's a robot's ability to move in different directions?",
+        "answers": ["Mobility", "Flexibility", "Agility", "Flying"],
+        "correct_answer": "Mobility"
+      },
+      {
+        "question": "What is a robot's ability to perform tasks called?",
+        "answers": ["Functionality", "Capability", "Operation", "Jumping"],
+        "correct_answer": "Functionality"
+      },
+      {
+        "question": "Which sensor detects light?",
+        "answers": ["Photocell", "Lightcell", "Brightcell", "Sandwich"],
+        "correct_answer": "Photocell"
+      },
+      {
+        "question": "Which sensor detects temperature?",
+        "answers": ["Thermistor", "Heatcell", "Warmcell", "Cookie"],
+        "correct_answer": "Thermistor"
+      },
+      {
+        "question": "Which sensor detects sound?",
+        "answers": ["Microphone", "Soundcell", "Earcapture", "Drum"],
+        "correct_answer": "Microphone"
+      },
+      {
+        "question": "Which sensor detects motion?",
+        "answers": ["Accelerometer", "Movercell", "Motioncell", "Marshmallow"],
+        "correct_answer": "Accelerometer"
+      },
+      {
+        "question": "What helps a robot maintain balance?",
+        "answers": ["Gyroscope", "Balancingcell", "Leveler", "Cucumber"],
+        "correct_answer": "Gyroscope"
+      },
+      {
+        "question": "What part of a robot holds tools?",
+        "answers": ["End-effector", "Toolholder", "Hand", "Waffle"],
+        "correct_answer": "End-effector"
+      },
+      {
+        "question": "What is the framework of a robot called?",
+        "answers": ["Chassis", "Frame", "Skeleton", "Biscuit"],
+        "correct_answer": "Chassis"
+      },
+      {
+        "question": "What is the process of giving a robot instructions called?",
+        "answers": ["Programming", "Coding", "Writing", "Drawing"],
+        "correct_answer": "Programming"
+      },
+      {
+        "question": "What is the main goal of FIRST LEGO League?",
+        "answers": ["Learning", "Playing", "Building", "Flying"],
+        "correct_answer": "Learning"
+      },
+      {
+        "question": "What do teams build in FIRST LEGO League?",
+        "answers": ["Robots", "Castles", "Machines", "Spaceships"],
+        "correct_answer": "Robots"
+      },
+      {
+        "question": "What is a core value of FIRST LEGO League?",
+        "answers": ["Teamwork", "Flying", "Cooperation", "Competition"],
+        "correct_answer": "Teamwork"
+      },
+      {
+        "question": "What's the name of the LEGO robotics programming language?",
+        "answers": ["Scratch", "Blocks", "Code", "Python"],
+        "correct_answer": "Scratch"
+      },
+      {
+        "question": "What is the brain of a LEGO robot called?",
+        "answers": ["Controller", "CPU", "Processor", "Heart"],
+        "correct_answer": "Controller"
+      }
+    ]
+  },
+  "math": {
+    "questions": [
+      {
+        "question": "6 + 7",
+        "answers": ["13", "12", "14", "11"]
+      },
+      {
+        "question": "15 - 5",
+        "answers": ["10", "9", "11", "8"]
+      },
+      {
+        "question": "3 * 4",
+        "answers": ["12", "11", "13", "10"]
+      },
+      {
+        "question": "20 / 5",
+        "answers": ["4", "5", "3", "6"]
+      },
+      {
+        "question": "9 - 3",
+        "answers": ["6", "7", "5", "8"]
+      },
+      {
+        "question": "2 * 5",
+        "answers": ["10", "9", "11", "8"]
+      },
+      {
+        "question": "18 / 3",
+        "answers": ["6", "5", "7", "4"]
+      },
+      {
+        "question": "8 + 4",
+        "answers": ["12", "11", "13", "10"]
+      },
+      {
+        "question": "14 - 7",
+        "answers": ["7", "6", "8", "5"]
+      },
+      {
+        "question": "5 * 3",
+        "answers": ["15", "14", "16", "13"]
+      }
+    ]
+  }
+}
