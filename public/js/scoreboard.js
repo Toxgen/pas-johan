@@ -134,9 +134,9 @@ function drawStartScreen() {
 
   var startButton = createButton("GET READY!");
   startButton.position(width / 2 - 200, height / 2);
-  startButton.style(
-    "@keyframes test: {from {top: 0px;} to {top: 500px;}} font-family:monospace; font-weight:bold; font-size:60px; padding:10px; border-radius:10px; animation: test 5s infinite;"
-  );
+  // startButton.style(
+  //   "font-family:monospace; font-weight:bold; font-size:60px; padding:10px; border-radius:10px;"
+  // );
   startButton.mousePressed(startNewGame);
   image(startScreen, 0, 0);
 }
